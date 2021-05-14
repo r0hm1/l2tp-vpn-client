@@ -1,0 +1,16 @@
+ipcp-accept-local
+ipcp-accept-remote
+refuse-eap
+require-mschap-v2
+noccp
+noauth
+logfile /var/log/xl2tpd.log
+idle 72000
+mtu 1410
+mru 1410
+defaultroute
+usepeerdns
+debug
+connect-delay 5000
+name myuser@myhost.com
+password myuserpassword
