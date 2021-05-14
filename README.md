@@ -97,7 +97,7 @@ networks:
 
 services:
   l2tp-vpn-client:
-    image: l2tp-vpn-client:latest
+    image: r0hm1/l2tp-vpn-client:latest
     container_name: l2tp-vpn-client
     privileged: true
     cap_add:
