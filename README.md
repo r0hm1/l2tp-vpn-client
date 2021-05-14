@@ -6,7 +6,7 @@ l2tp-vpn-client
 
 A tiny Alpine 3.11 based docker image to quickly setup L2TP VPN client to encapsulate your internet traffic to other docker containers.
 
-![image didn't load :-(](./documentation/diagram.png)
+![image didn't load :-(](https://raw.githubusercontent.com/r0hm1/l2tp-vpn-client/main/documentation/diagram.png)
 
 ### What it does
 
